@@ -4,7 +4,7 @@
 
 ## Personal Stuffs
 
-- 🏢 I’m currently working as a frontend developer at <a href='https://www.lenovo.com'><img src="https://p4.lefile.cn/fes/cms/2023/05/29/93uln99jalawid96b3b75zcnhfqs1u899315.jpeg" alt="Lenovo" style="zoom: 50%;" /></a>
+- 🏢 I’m currently working as a frontend developer at  ![Lenovo](https://p3.lefile.cn/fes/cms/2023/05/29/hmww8az7sxzda0uj57b2kb25qot0sj332266.png)
 - 👨🏻‍💻 I’m currently learning Rust🤔
 
 ## My Stacks
