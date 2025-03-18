@@ -5,7 +5,7 @@
 ## Personal Stuffs
 
 - 🏢 I’m currently working as a frontend developer at  ![Lenovo](https://p4.lefile.cn/fes/cms/2023/05/29/tom38rkeb51m820q7i3wyuoz36pwew395898.png)
-- 👨🏻‍💻 I’m currently learning Rust🤔
+- 👨🏻‍💻 I’m currently learning AI🤔
 
 ## My Stacks
 
